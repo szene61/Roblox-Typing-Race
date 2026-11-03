@@ -1,12 +1,13 @@
 # ⌨️ TYPE FAST OR LOSE! 🏎️
 
-Welcome to **Typing Race**, the ultimate typing competition!
+Welcome to **Type Fast or Lose**, the ultimate typing racing game!
 
 Sit at the table, challenge other players, and type words as fast as you can to make your car race faster!
 
 🏁 **Can you type fast enough to win?**
 
 ## 🔥 FEATURES
+
 - ⌨️ Real-time typing races
 - 🏎️ Race against other players
 - ⚡ Faster typing means faster cars
@@ -15,7 +16,7 @@ Sit at the table, challenge other players, and type words as fast as you can to 
 
 ## 🎮 PLAY NOW
 
-[PLAY THE GAME ON ROBLOX](YOUR_ROBLOX_GAME_LINK)
+### [🚀 PLAY TYPE FAST OR LOSE ON ROBLOX](https://www.roblox.com/games/98942523615872/Type-Fast-or-Lose)
 
 ## 📸 GAME SCREENSHOTS
 
